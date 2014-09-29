@@ -6,7 +6,7 @@
     <groupId>com.googlecode.gwtquery.plugins</groupId>
     <artifactId>droppable</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9-1</version>
 
     <properties>
         <maven.compiler.source>1.6</maven.compiler.source>
